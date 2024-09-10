@@ -36,8 +36,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/akzfeelsbad/akzfeelsbad/output/snake.svg" alt="Snake animation" />
-
 ###
 
 <h2 align="left">Social media</h2>
