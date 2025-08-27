@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I'm a student at IFPE(Federal Institute of Pernambuco)-Garanhuns of Information Technology. In my free time I like to study and watch good movies.</p>
+<p align="left">I'm a student, currently studying Computer Science at UFAL (Federal University of Alagoas). In my free time I like to study and watch good movies.</p>
 
 ###
 
